@@ -5,11 +5,11 @@
   <version>1.0.0-SNAPSHOT</version>
   <packaging>war</packaging>
   
-  <properties>
-  	<project.builde.sourceEncoding>UTF-8</project.builde.sourceEncoding>
-  </properties>
+	<properties>
+  		<project.builde.sourceEncoding>UTF-8</project.builde.sourceEncoding>
+ 	</properties>
   
-  <build>
+  	<build>
 		<finalName>projetoVenda</finalName>
 		<plugins>
 			<plugin>
