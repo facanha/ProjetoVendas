@@ -1,7 +1,5 @@
 @charset "utf-8";
 
-
-<!-- Login -->
 #login-dialog {
 	width: 290px;
 	margin: auto;
@@ -15,8 +13,6 @@
 	margin-top: 8px;
 	padding: 10px;
 }
-
-<!-- LayoutPadrão -->
 
 body {
 	font-size: 12px;
@@ -47,13 +43,20 @@ header > div {
 footer {
 	padding: 0px 8px;
 	margin-bottom: 10px;
+	text-align: center;
 }
 
-<!-- TodoProjeto -->
-
 h1 {
-	font-size: 12px;
+	font-size: 24px;
 	font-weight: 500;
 	padding: 0px;
 	margin: 0px;
+}
+
+.rotulo {
+	width: 150px;
+}
+
+.ui-panelgrid td {
+	height: 34px;
 }
